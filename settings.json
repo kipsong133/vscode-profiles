@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Minimal Kiwi",
+    "window.commandCenter": true,
+    "redhat.telemetry.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.external.windowsExec": "C:\\Program Files\\WezTerm\\wezterm-gui.exe",
+    "editor.accessibilitySupport": "off",
+    "accessibility.signals.lineHasError.sound": "off",
+    "accessibility.signals.lineHasWarning.sound": "off",
+    "accessibility.signals.lineHasFoldedArea.sound": "off",
+    "accessibility.signals.lineHasBreakpoint.sound": "off",
+    "accessibility.signals.terminalBell.sound": "off",
+    "accessibility.signals.terminalCommandFailed.sound": "off",
+    "accessibility.signals.taskCompleted.sound": "off",
+    "accessibility.signals.taskFailed.sound": "off",
+    "accessibility.signalOptions.volume": 0,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    }
+}
