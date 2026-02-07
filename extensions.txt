@@ -1,4 +1,5 @@
 # Common extensions for all IDEs
+ms-vscode-remote.remote-wsl
 dart-code.dart-code
 dart-code.flutter
 redhat.java
