@@ -24,5 +24,6 @@
         "editor.selectionHighlight": false,
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": "off"
-    }
+    },
+    "claudeCode.preferredLocation": "panel"
 }
